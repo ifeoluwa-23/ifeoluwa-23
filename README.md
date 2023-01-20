@@ -9,7 +9,7 @@
 - **Analysis:** Data Cleaning, Data Exploration, Data Visualization, Creating Interactive Dashboards.
 #### 👩🏽‍💻 Projects
 - Techway Placement
-- 8WeeksSQLChallenge
+- [8WeeksSQLChallenge](https://github.com/ifeoluwa-23/8WeeksSQLChallenge)
 - [AlexTheAnalyst Portfolio Projects](https://github.com/ifeoluwa-23/AlexTheAnalyst-Portfolio-Projects)
 - Sales & Website traffic Analysis
 #### 📫 Email me at: ifeoluwaogunmiluyi@gmail.com
