@@ -11,7 +11,7 @@
 - Techway Placement
 - [8WeeksSQLChallenge](https://github.com/ifeoluwa-23/8WeeksSQLChallenge)
 - [AlexTheAnalyst Portfolio Projects](https://github.com/ifeoluwa-23/AlexTheAnalyst-Portfolio-Projects)
-- Sales & Website traffic Analysis
+- [Sales & Website traffic Analysis](https://github.com/ifeoluwa-23/SQL_Maven_Analysis)
 #### 📫 Email me at: ifeoluwaogunmiluyi@gmail.com
 ##### :chart_with_upwards_trend: View my Power BI dashboards and reports [@Ifeoluwa](https://app.powerbi.com/groups/d6bcd25c-dd72-4f13-9883-203d87c14051/list)
 #### 🤝🏽 Connect with me!
